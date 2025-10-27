@@ -1,13 +1,13 @@
-AutoDuty：BMRでも問題なく使用できます。
+・AutoDuty：BMRでも問題なく使用できます。
 
-Questionable：BMRでも問題なく使用できます。
+・Questionable：BMRでも問題なく使用できます。
 
-BossMod：DDのEnableのコンフィグ名変更。
+・BossMod：DDのEnableのコンフィグ名変更。
 
   /vbm cfg AutoDDConfig EnableModule false
 
   /vbm cfg AutoDDConfig EnableModule true
 
-RotationSolverReborn：PvPオリジナルローテーション(LB有り)
+・RotationSolverReborn：PvPオリジナルローテーション(LB有り)
 
-WrtathCombo：BLUのAuto化
+・WrtathCombo：BLUのAuto化
