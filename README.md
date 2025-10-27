@@ -4,9 +4,9 @@
 
 ・BossMod：DDのEnableのコンフィグ名変更。
 
-  /vbm cfg AutoDDConfig EnableModule false
+      /vbm cfg AutoDDConfig EnableModule false
 
-  /vbm cfg AutoDDConfig EnableModule true
+      /vbm cfg AutoDDConfig EnableModule true
 
 ・RotationSolverReborn：PvPオリジナルローテーション(LB有り)
 
