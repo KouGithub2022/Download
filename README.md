@@ -11,3 +11,5 @@
 ・RotationSolverReborn：PvPオリジナルローテーション(LB有り)
 
 ・WrtathCombo：BLUのAuto化
+
+・app-7.0.9：げふんげふん…
