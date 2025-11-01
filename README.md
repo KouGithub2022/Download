@@ -12,3 +12,5 @@
 
 ・WrtathCombo：BLUのAuto化
 
+・CBT 69.95から完全に”Deliveroo”が削除されてしまいました。
+
