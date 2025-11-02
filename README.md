@@ -14,3 +14,5 @@
 
 ・CBT 69.95から完全に”Deliveroo”が削除されてしまいました。
 
+・EasyTranslateは公式版が未対応の為。
+
