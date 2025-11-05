@@ -16,3 +16,4 @@
 
 ・EasyTranslateは公式版が未対応の為。
 
+ブログ：https://ameblo.jp/ff14ss-2020/
