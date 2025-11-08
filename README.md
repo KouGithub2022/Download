@@ -16,4 +16,6 @@
 
 ・EasyTranslateは公式版が未対応の為。
 
+・Resonantは現在公式版が未対応状態なのを何とか動くようにしたものです…不具合あるかも…
+
 ブログ：https://ameblo.jp/ff14ss-2020/
