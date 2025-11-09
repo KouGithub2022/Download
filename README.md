@@ -1,4 +1,5 @@
 ・AutoDuty：BMRでも問題なく使用できます。
+Repoが変更されました：https://puni.sh/api/repository/erdelf
 
 ・Questionable：BMRでも問題なく使用できます。
 
