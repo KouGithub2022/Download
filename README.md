@@ -1,3 +1,5 @@
+注意：7.4更新時は一時的に全部削除される予定です。
+
 ・AutoDuty：BMRでも問題なく使用できます。
 Repoが変更されました：https://puni.sh/api/repository/erdelf
 
