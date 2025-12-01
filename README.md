@@ -21,4 +21,6 @@ Repoが変更されました：https://puni.sh/api/repository/erdelf
 
 ・Resonantは現在公式版が未対応状態なのを何とか動くようにしたものです…不具合あるかも…
 
+・Dropbox公式はちょっと変なリリース方法なので若干時間がかかる為にアップしました。
+
 ブログ：https://ameblo.jp/ff14ss-2020/
